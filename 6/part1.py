@@ -16,7 +16,7 @@ output: number of fishes at the end of last day
 FIRST_COUNTDOWN_START = 8
 COUNTDOWN_START = 6
 
-ROUNDS = 256
+ROUNDS = 80
 
 
 def parse_input(fn):
